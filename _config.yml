@@ -2,7 +2,7 @@ title: X*STARS 2025
 description: > # this means to ignore newlines until "baseurl:"
   Bringing Together Former GIS Postdocs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "FIXME:BASENAME" # the base hostname & protocol for your site
+url: "https://xstars-conferences.github.io/" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
