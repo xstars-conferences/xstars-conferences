@@ -7,29 +7,39 @@
   topic: Skateboarding and chess
   description: The stuff I do
 
-- title: Name
+- title: Massimo 
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  subtitle: Researcher at Stanford Institute
+  img: massimo.jpeg
+  thumbnail: massimo_thumb.jpeg
+  alt: Picture of Massimo
+  topic: Life at Stanford
+  description: Stuff 
 
-- title: Name
+- title: Ricardo del Rosario
   name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  subtitle: Computational Biologist at Broad Institute
+  img: ric.jpeg
+  thumbnail: ric_thumb.jpeg
+  alt: Picture of Ric
+  topic: Life at the BROAD
+  description: Why genomics is not rocket science
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Asif Javed
+  name: Name-4
+  subtitle: Asst. Prof. at The University of Hong Kong
+  img: asif.jpeg
+  thumbnail: asif_thumb.jpeg
+  alt: Picture of Asif
+  topic: Towards new horizons
+  description: I want to be famous
+
+- title: Andreas Wilm
+  name: Name-5
+  subtitle: Senior Director, Computational Biology, ImmunoScape
+  img: andreas.jpeg
+  thumbnail: andreas_thumb.jpeg
+  alt: Picture of Andreas
+  topic: Not leaving ealier a mistake
+  description: Early retirement made easy
+

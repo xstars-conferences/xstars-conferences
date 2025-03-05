@@ -1,5 +1,13 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9:00 AM - 9:30 PM
+  #info: "<u>Introduction</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+  info: "<u>Introductory session</u><br/>Welcoming all delegates"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+#- time: 09:00 PM - 3:00 PM
+#  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+
+
+- time: 09:00 PM - 3:00 PM
+  info: "<u>Scientific sessions</u><br><b>5 confirmed speakers + invited speakers</b><br>Format: 45-minute presentation + 10-minute Q&A"
+
+- time: Evening
+  info: Networking & Social dinner. Venue TBA

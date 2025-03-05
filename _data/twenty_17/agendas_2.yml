@@ -1,5 +1,15 @@
-- time: 8:00 AM - 12:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: 9.00am - 9.15am
+  info: "<u>Welcome address</u>"
 
-- time: 12:00 PM - 3:00 PM
-  info: "<u>Title</u><br><b>Name</b><br><i>Position</i><br><br>Topic"
+- time: TBA
+  info: "Scientific Presentations & Discussions"
+
+- time: TBA
+  info: "<u>Networking Session</u><br/>Discussions on collaborations & future projects"
+
+- time: TBA
+  info: "<u>Future Collaborations</u><br />Roundtable"
+
+- time: TBA
+  info: "<u>Closing remarks</u>"
+
