@@ -27,7 +27,7 @@
 
 - title: Asif Javed
   name: Name-4
-  subtitle: Asst. Prof. at The University of Hong Kong
+  subtitle: Assistant Professor at The University of Hong Kong (HKU)
   img: asif.jpeg
   thumbnail: asif_thumb.jpeg
   alt: Picture of Asif
@@ -37,9 +37,18 @@
 - title: Andreas Wilm
   name: Name-5
   subtitle: Senior Director, Computational Biology, ImmunoScape
-  img: andreas.jpeg
-  thumbnail: andreas_thumb.jpeg
+  img: andreas.png
+  thumbnail: andreas_thumb.png
   alt: Picture of Andreas
-  topic: Not leaving earlier was a mistake
-  description: Early retirement made easy
+  topic: In-silico TCR discovery and safety profiling
+  description: TCR-T cell therapeutics represent a promising approach in the treatment of solid tumors, harnessing the incredible diversity and specificity of T cell receptors to recognize and target specific tumor antigens. At ImmunoScape, we combine mass spectrometry-based, mulitplexed identification and sequencing-based deep profiling of antigen-specific T cells to discover novel T cell-based therapeutics. This talk will explore how machine learning can leverage the data created by this platform to identify more and better TCRs. Additionally, I will discuss how computational methods can accelerate crucial pre-clinical safety checks, such as assessing cross-reactivity against self-antigens, to streamline the development of safe and efficacious TCR-T cell therapies.
+
+- title: Ralf Jauch
+  name: Name-6
+  subtitle: Associate Professor at The University of Hong Kong (HKU)
+  img: ralf.png
+  thumbnail: ralf_thumb.png
+  alt: Picture of Ralf
+  topic: Which tools did the grand grandmother of all cells use to create animals?
+  description: The unicellular ancestor of all animals appeared around 700 million years ago. We found that critical tools used in animal stem cells are even older than that, and ancestral pre-animal versions of animal stem cell factors can induce pluripotency in modern mice. This makes us wonder which evolutionary innovations paved the way for animal stem cells and multicellular life.
 
