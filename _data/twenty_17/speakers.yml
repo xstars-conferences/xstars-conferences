@@ -1,41 +1,41 @@
 - title: Jeremie Poschmann
-  name: Name-1
-  subtitle: Researcher at Université de Nantes
+  name: Jeremie
+  subtitle: PI at Université de Nantes
   img: jeremie.jpeg
   thumbnail: jeremie_thumb.jpeg
   alt: Picture of Jeremie
-  topic: Skateboarding and chess
-  description: The stuff I do
+  topic: TBD
+  description: Jeremie leads a genomics and bioinformatics research group within Team 6 and manages the center's single-cell platform. Alongside Professor Antoine Roquilly, Jeremie co-leads Team 6, which focuses on studying host-pathogen interactions, inflammation, and mucosal immunity. His group uses multi-omics approaches, including epigenomics and single-cell genomics, integrating these techniques with other types of omics data. Their research aims to identify molecular patterns associated with disease, emphasizing the role of immune cells in inflammation and uncovering specific disease signatures and mechanisms. The team's main goal is to understand the complexities of immune responses during bacterial infections through studies involving both human and animal models. They particularly focus on immune cell changes triggered by acute inflammatory stress, especially examining the behavior of mononuclear phagocytes and T cells.
 
 - title: Massimo 
-  name: Name-2
+  name: Massimo
   subtitle: Researcher at Stanford Institute
   img: massimo.jpeg
   thumbnail: massimo_thumb.jpeg
   alt: Picture of Massimo
-  topic: Life at Stanford
-  description: Stuff 
+  topic: TBD
+  description: TBD
 
 - title: Ricardo del Rosario
-  name: Name-3
+  name: Ric
   subtitle: Computational Biologist at Broad Institute
   img: ric.jpeg
   thumbnail: ric_thumb.jpeg
   alt: Picture of Ric
-  topic: Life at the BROAD
-  description: Why genomics is not rocket science
+  topic: TBD
+  description: TBD
 
 - title: Asif Javed
-  name: Name-4
+  name: Asif
   subtitle: Assistant Professor at The University of Hong Kong (HKU)
   img: asif.jpeg
   thumbnail: asif_thumb.jpeg
   alt: Picture of Asif
-  topic: Towards new horizons
-  description: I want to be famous
+  topic: TBD
+  description: TBD
 
 - title: Andreas Wilm
-  name: Name-5
+  name: Andreas
   subtitle: Senior Director, Computational Biology, ImmunoScape
   img: andreas.png
   thumbnail: andreas_thumb.png
@@ -44,11 +44,21 @@
   description: TCR-T cell therapeutics represent a promising approach in the treatment of solid tumors, harnessing the incredible diversity and specificity of T cell receptors to recognize and target specific tumor antigens. At ImmunoScape, we combine mass spectrometry-based, mulitplexed identification and sequencing-based deep profiling of antigen-specific T cells to discover novel T cell-based therapeutics. This talk will explore how machine learning can leverage the data created by this platform to identify more and better TCRs. Additionally, I will discuss how computational methods can accelerate crucial pre-clinical safety checks, such as assessing cross-reactivity against self-antigens, to streamline the development of safe and efficacious TCR-T cell therapies.
 
 - title: Ralf Jauch
-  name: Name-6
+  name: Ralf
   subtitle: Associate Professor at The University of Hong Kong (HKU)
   img: ralf.png
   thumbnail: ralf_thumb.png
   alt: Picture of Ralf
   topic: Which tools did the grand grandmother of all cells use to create animals?
   description: The unicellular ancestor of all animals appeared around 700 million years ago. We found that critical tools used in animal stem cells are even older than that, and ancestral pre-animal versions of animal stem cell factors can induce pluripotency in modern mice. This makes us wonder which evolutionary innovations paved the way for animal stem cells and multicellular life.
+
+- title: Debarka Sengupta
+  name: Debarka
+  subtitle: Professor of Comp. Bio. IIIT-D and Chief Science Officer, GeneSilico, Inc.
+  img: debarka.png
+  thumbnail: debarka_thumb.png
+  alt: Picture of Debarka
+  topic: Tracking Atypical Transcriptional Events for Diagnosis, Prognosis, and Treatment of Cancer
+  description: TBD
+
 
