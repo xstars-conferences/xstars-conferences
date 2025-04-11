@@ -7,7 +7,7 @@
   topic: TBD
   description: Jeremie leads a genomics and bioinformatics research group within Team 6 and manages the center's single-cell platform. Alongside Professor Antoine Roquilly, Jeremie co-leads Team 6, which focuses on studying host-pathogen interactions, inflammation, and mucosal immunity. His group uses multi-omics approaches, including epigenomics and single-cell genomics, integrating these techniques with other types of omics data. Their research aims to identify molecular patterns associated with disease, emphasizing the role of immune cells in inflammation and uncovering specific disease signatures and mechanisms. The team's main goal is to understand the complexities of immune responses during bacterial infections through studies involving both human and animal models. They particularly focus on immune cell changes triggered by acute inflammatory stress, especially examining the behavior of mononuclear phagocytes and T cells.
 
-- title: Massimo 
+- title: Massimo
   name: Massimo
   subtitle: Researcher at Stanford Institute
   img: massimo.jpeg
@@ -22,8 +22,8 @@
   img: ric.jpeg
   thumbnail: ric_thumb.jpeg
   alt: Picture of Ric
-  topic: TBD
-  description: TBD
+  topic: Marmoset brains harbor the microglia of their birth sibling
+  description: Chimerism happens rarely among most mammals but is common in marmosets and tamarins, a result of fraternal twin or triplet birth patterns in which in utero connected circulatory systems (through which stem cells transit) lead to persistent blood chimerism (12-80%) throughout life. We analyzed single-cell RNA-seq data from blood, liver, kidney and multiple brain regions across a number of marmosets, using transcribed single nucleotide polymorphisms (SNPs) to identify cells with the sibling's genome in various cell types within these tissues. Sibling-derived chimerism in all tissues arose entirely from cells of hematopoietic origin (i.e., myeloid and lymphoid lineages). In brain tissue this was reflected as sibling-derived chimerism among microglia (20-52%) and macrophages (18-64%) but not among other resident cell types (i.e., neurons, glia or ependymal cells). The percentage of microglia that were sibling-derived showed significant variation across brain regions, even within individual animals, likely reflecting distinct responses by siblings' microglia to local recruitment or proliferation cues or, potentially, distinct clonal expansion histories in different brain areas. In the animals and tissues we analyzed, microglial gene expression profiles bore a much stronger relationship to local/host context than to sibling genetic differences. Naturally occurring marmoset chimerism will provide new ways to understand the effects of genes, mutations and brain contexts on microglial biology and to distinguish between effects of microglia and other cell types on brain phenotypes.
 
 - title: Asif Javed
   name: Asif
