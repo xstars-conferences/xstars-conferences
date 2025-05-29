@@ -7,7 +7,7 @@
   topic: TBD
   description: Jeremie leads a genomics and bioinformatics research group within Team 6 and manages the center's single-cell platform. Alongside Professor Antoine Roquilly, Jeremie co-leads Team 6, which focuses on studying host-pathogen interactions, inflammation, and mucosal immunity. His group uses multi-omics approaches, including epigenomics and single-cell genomics, integrating these techniques with other types of omics data. Their research aims to identify molecular patterns associated with disease, emphasizing the role of immune cells in inflammation and uncovering specific disease signatures and mechanisms. The team's main goal is to understand the complexities of immune responses during bacterial infections through studies involving both human and animal models. They particularly focus on immune cell changes triggered by acute inflammatory stress, especially examining the behavior of mononuclear phagocytes and T cells.
 
-- title: Massimo
+- title: Massimo Nichane
   name: Massimo
   subtitle: Researcher at Stanford Institute
   img: massimo.jpeg
@@ -52,13 +52,13 @@
   topic: Which tools did the grand grandmother of all cells use to create animals?
   description: The unicellular ancestor of all animals appeared around 700 million years ago. We found that critical tools used in animal stem cells are even older than that, and ancestral pre-animal versions of animal stem cell factors can induce pluripotency in modern mice. This makes us wonder which evolutionary innovations paved the way for animal stem cells and multicellular life.
 
-- title: Debarka Sengupta
-  name: Debarka
-  subtitle: Professor of Comp. Bio. IIIT-D and Chief Science Officer, GeneSilico, Inc.
-  img: debarka.png
-  thumbnail: debarka_thumb.png
-  alt: Picture of Debarka
-  topic: Tracking Atypical Transcriptional Events for Diagnosis, Prognosis, and Treatment of Cancer
-  description: TBD
-
+# - title: Debarka Sengupta
+#   name: Debarka
+#   subtitle: Professor of Comp. Bio. IIIT-D and Chief Science Officer, GeneSilico, Inc.
+#   img: debarka.png
+#   thumbnail: debarka_thumb.png
+#   alt: Picture of Debarka
+#   topic: Tracking Atypical Transcriptional Events for Diagnosis, Prognosis, and Treatment of Cancer
+#   description: TBD
+#
 

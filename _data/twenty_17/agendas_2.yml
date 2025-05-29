@@ -1,15 +1,29 @@
-- time: 9.00am - 9.15am
-  info: "<u>Welcome address</u>"
+- time: 08:00-10:00
+  info: "Breakfast"
 
-- time: TBA
-  info: "Scientific Presentations & Discussions"
+- time: 10:00-10:40
+  info: "Ralf Jauch"
 
-- time: TBA
-  info: "<u>Networking Session</u><br/>Discussions on collaborations & future projects"
+- time: 10:40-11:20
+  info: "Siva Vijayakumar"
 
-- time: TBA
-  info: "<u>Future Collaborations</u><br />Roundtable"
+- time: 11:20-12:00
+  info: "Ricardo Del Rosario"
 
-- time: TBA
-  info: "<u>Closing remarks</u>"
+- time: 12:00-14:00
+  info: "Lunch"
 
+- time: 14:00-14:40
+  info: "Massimo Nichane"
+
+- time: 14:40-15:20
+  info: "Aleksander Jankowski"
+
+- time: 15:20-16:00
+  info: "Michael Rossbach"
+
+- time: 16:00-16:40
+  info: "Closing remarks"
+
+- time: From 18:00
+  info: "Dinner"
