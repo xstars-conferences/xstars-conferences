@@ -25,15 +25,6 @@
   topic: Marmoset brains harbor the microglia of their birth sibling
   description: Chimerism happens rarely among most mammals but is common in marmosets and tamarins, a result of fraternal twin or triplet birth patterns in which in utero connected circulatory systems (through which stem cells transit) lead to persistent blood chimerism (12-80%) throughout life. We analyzed single-cell RNA-seq data from blood, liver, kidney and multiple brain regions across a number of marmosets, using transcribed single nucleotide polymorphisms (SNPs) to identify cells with the sibling's genome in various cell types within these tissues. Sibling-derived chimerism in all tissues arose entirely from cells of hematopoietic origin (i.e., myeloid and lymphoid lineages). In brain tissue this was reflected as sibling-derived chimerism among microglia (20-52%) and macrophages (18-64%) but not among other resident cell types (i.e., neurons, glia or ependymal cells). The percentage of microglia that were sibling-derived showed significant variation across brain regions, even within individual animals, likely reflecting distinct responses by siblings' microglia to local recruitment or proliferation cues or, potentially, distinct clonal expansion histories in different brain areas. In the animals and tissues we analyzed, microglial gene expression profiles bore a much stronger relationship to local/host context than to sibling genetic differences. Naturally occurring marmoset chimerism will provide new ways to understand the effects of genes, mutations and brain contexts on microglial biology and to distinguish between effects of microglia and other cell types on brain phenotypes.
 
-- title: Asif Javed
-  name: Asif
-  subtitle: Assistant Professor at The University of Hong Kong (HKU)
-  img: asif.jpeg
-  thumbnail: asif_thumb.jpeg
-  alt: Picture of Asif
-  topic: TBD
-  description: TBD
-
 - title: Andreas Wilm
   name: Andreas
   subtitle: Senior Director, Computational Biology, ImmunoScape
@@ -61,4 +52,33 @@
 #   topic: Tracking Atypical Transcriptional Events for Diagnosis, Prognosis, and Treatment of Cancer
 #   description: TBD
 #
+
+
+- title: Benjarath P. Javed
+  name: Bam
+  subtitle: Research Scientist, Chulabhorn Research Institute
+  img: bam.jpg
+  thumbnail: bam_thumb.jpg
+  alt: Picture of Bam
+  topic: The landscape of etiological patterns of hepatocellular carcinoma and intrahepatic cholangiocarcinoma in Thailand
+  description: 'Thailand is among countries with the highest global incidence and mortality rates of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (iCCA). While viral hepatitis and liver fluke infections have been associated with HCC and iCCA, respectively, other environmental risk factors, overall risk factor commonality and combinatorial roles, and effects on survival have not been systematically examined. We conducted a TIGER-LC consortium-based population study covering all high-incidence areas of both malignancies across Thailand: 837 HCC, 1474 iCCA, and 1112 controls (2011–2019) were comprehensively queried on lifelong environmental exposures, lifestyle, and medical history. Multivariate logistic regression and Cox proportional hazards analyses were used to evaluate risk factors and associated survival patterns. Our models identified shared risk factors between HCC and iCCA, such as viral hepatitis infection, liver fluke infection, and diabetes, including novel and shared associations of agricultural pesticide exposure (OR range of 1.50; 95% CI: 1.06–2.11 to 2.91; 95% CI: 1.82–4.63) along with vulnerable sources of drinking water. Most patients had multiple risk factors, magnifying their risk considerably. Patients with lower risk levels had better survival in both HCC (HR 0.78; 95% CI: 0.64–0.96) and iCCA (HR 0.84; 95% CI: 0.70–0.99). Risk factor co-exposures and their common associations with HCC and iCCA in Thailand emphasize the importance for future prevention and control measures, especially in its large agricultural sector. The observed mortality patterns suggest ways to stratify patients for anticipated survivorship and develop plans to support medical care of longer-term survivors, including behavioral changes to reduce exposures.'
+
+- title: Asif Javed
+  name: Asif
+  subtitle: Research Scientist II,  Chulabhorn Research Institute
+  img: asif.jpeg
+  thumbnail: asif_thumb.jpeg
+  alt: Picture of Asif
+  topic: Understanding leukemia through a multi-omics lens
+  description: 'Leukemia is a growing medical burden in developed countries. It is estimated that 1.5% of the ageing population will succumb to it. Historically, it has been a trailblazer in cancer studies. Its low mutation rate allows for ease of interpretation of genetic variants observed. However, lurking behind this simple genomic profile are epigenomic changes, perturbed regulatory mechanisms, and cellular and functional diversity along different differentiation lineages. Altogether, these paint a complex canvas contributing to the clinical and functional heterogeneity in the patients and eventually their drug response and prognosis. I will share my work towards understanding this diversity in myeloid leukemias relying on multi-omics bulk and single cell evaluations of primary samples.'
+
+- title: Michael Rossbach
+  name: Michael
+  subtitle: Prof. TUM Asia, CEO Ikxinta Group, CEO Orpheus Bioscience, CTO Axiom Insights
+  #, Partner Eckuity Capital
+  img: michael.jpeg
+  thumbnail: michael_thumb.jpeg
+  alt: Picture of Michael
+  topic: X-ray fluorescence imaging (XFI) for in-vivo immune cell tracking
+  description: 'The infiltration of immune cells into inflamed tissues is a central feature of immune-mediated inflammatory diseases. Gaining detailed insights into the in vivo behavior of specific immune cell subsets is essential for improving our understanding of disease mechanisms and for guiding the development of targeted therapies. In our work, we present an advanced X-ray fluorescence imaging (XFI) approach capable of quantitatively tracking immune cells in vivo, offering unique advantages over conventional imaging techniques. This capability is enabled by a rigorous characterization of spectral background noise, particularly from multiple Compton scattering, in a mouse-sized model scanned with a monochromatic pencil X-ray beam from a synchrotron source. Under optimized conditions, the imaging system achieves sufficient sensitivity to detect localized accumulations of labeled immune cells, thus providing experimental validation of non-invasive immune cell tracking in live mice. This technology holds promise for preclinical studies aiming to monitor immune responses and evaluate therapeutic interventions in real time.'
 
