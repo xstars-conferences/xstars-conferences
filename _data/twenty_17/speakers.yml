@@ -13,8 +13,8 @@
   img: massimo.jpeg
   thumbnail: massimo_thumb.jpeg
   alt: Picture of Massimo
-  topic: TBD
-  description: TBD
+  topic: Multipotent embryonic progenitors for lung regeneration
+  description: In response to acute or chronic insults, adult organs without a dedicated stem cell mobilize distinct mature cells or facultative progenitors with limited regenerative abilities, which often results in development of abnormal repair and, in some case, organ failure. In contrast, during embryonic development, various organs and tissues are elaborated from transient multipotent stem or progenitor cells. Previously, I have shown that embryonic lung progenitors can be isolated and expanded in vitro, engraft the adult lung in vivo, and regenerate the full repertoire of lung epithelial cell types. Here, I further demonstrate that adult somatic cells can be directly reprogrammed into embryonic lung progenitor-like cells and used for cell transplant and in vivo tissue repair. These artificially-engineered embryonic cells display proliferative, transcriptional, and functional properties analogous to native embryonic progenitors. Transplantation of these synthetic cells substantially repair damaged lung tissue by generating new functional alveoli (the gas-exchange units) and improved long-term survival and pulmonary function of experimental mice with severe lung injury and fibrosis. Ultimately, I propose that synthetic multipotent embryonic cells with broader regenerative potential instead of adult cells could serve as an effectivel strategy for repair of permanently damaged adult organs.
 
 - title: Ricardo del Rosario
   name: Ric
@@ -82,3 +82,19 @@
   topic: X-ray fluorescence imaging (XFI) for in-vivo immune cell tracking
   description: 'The infiltration of immune cells into inflamed tissues is a central feature of immune-mediated inflammatory diseases. Gaining detailed insights into the in vivo behavior of specific immune cell subsets is essential for improving our understanding of disease mechanisms and for guiding the development of targeted therapies. In our work, we present an advanced X-ray fluorescence imaging (XFI) approach capable of quantitatively tracking immune cells in vivo, offering unique advantages over conventional imaging techniques. This capability is enabled by a rigorous characterization of spectral background noise, particularly from multiple Compton scattering, in a mouse-sized model scanned with a monochromatic pencil X-ray beam from a synchrotron source. Under optimized conditions, the imaging system achieves sufficient sensitivity to detect localized accumulations of labeled immune cells, thus providing experimental validation of non-invasive immune cell tracking in live mice. This technology holds promise for preclinical studies aiming to monitor immune responses and evaluate therapeutic interventions in real time.'
 
+
+- title: Aleksander Jankowski
+  name: Aleks
+  subtitle: Assistant Professor at the University of Warsaw
+  img: aleks.jpg
+  thumbnail: aleks_thumb.jpg
+  topic: Regulatory role of long-range chromatin interactions
+  description: Three-dimensional folding of the genome plays an essential role in ensuring appropriate readout of genetic information, with topologically associating domains (TADs) being the basic unit of chromatin organization. I will discuss approaches to dissect the regulatory role and mechanisms behind long-range chromatin interactions. First, I will present a recently identified level of genome folding in Drosophila, where distant TAD pairs, located megabases apart, interact to form meta-domains. The formation of meta-domains relies on diverse transcription factors that are able to pair over long and flexible distances, driving focused long-range contacts between elements from the interacting TADs. Second, I will present a computational approach to detect trans-homologous chromatin interactions between chromosomes forming homologous pairs in the genome. Of functional relevance are combinations of genomic elements which exhibit significantly different frequency of trans-homologous interactions compared to the cis-homologous counterpart. Finally, I will introduce a computational method to identify enriched functional terms in a set of gene pairs defined by chromatin interactions.
+
+- title: Sivakamaundari Vijayakumar
+  name: Siva
+  img: siva.jpg
+  thumbnail: siva_thumb.jpg
+  subtitle: Researcher at Stanford Institute
+  topic: "Reversible and Irreversible Injuries: Cells & Signals In Regeneration, And The Right Tools"
+  description: "Tissues may appear static during homeostasis, but in reality, a dynamic network of signals exchanged between cells creates the &quot;niche&quot; that regulates the timing of proliferation and differentiation to support regeneration. In this talk, I will discuss the role of one such developmental signal—the Hedgehog signaling pathway—in maintaining glandular tissue and enabling regeneration following mild (mechanical) injury versus severe radiation-induced injury. The cellular composition—and the niche it establishes— influences whether an injury is reversible or progresses toward diseased states such as cancer. Finally, from a biologist's perspective, I will address current challenges in extracting mechanistic insights from low- resolution data in the era of 'big data' in tissue biology."
